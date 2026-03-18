@@ -1,4 +1,4 @@
-# this is the test for git hub -webhook  
+# this is the test for git hub   
 FROM python:3.11-slim
 WORKDIR /app
 COPY requirements.txt ./
